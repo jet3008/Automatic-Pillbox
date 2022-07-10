@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pastillero_v3", "pastillero_v3\pastillero_v3.csproj", "{D97ADC2E-FF97-43F6-9310-A990362E6446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97ADC2E-FF97-43F6-9310-A990362E6446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97ADC2E-FF97-43F6-9310-A990362E6446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97ADC2E-FF97-43F6-9310-A990362E6446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97ADC2E-FF97-43F6-9310-A990362E6446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {172CA843-9C02-4EA4-8189-5132E7A96306}
+	EndGlobalSection
+EndGlobal
